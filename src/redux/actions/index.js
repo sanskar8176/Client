@@ -7,7 +7,7 @@ import axios from 'axios';
 import { ADDNEW_TODO, GETALL_TODO, TOGGLE_TODO, UPDATE_TODO, DELETE_TODO, TOGGLE_TAB} from './type.js';
 
 // const API_URL= 'http://localhost:4000';  //for local
-const API_URL= 'https://todo-website-api.onrender.com/';         //for deploy
+const API_URL= 'https://todo-website-api.onrender.com';         //for deploy
 
 // api calls ko async await  use and error handling bhi 
 
